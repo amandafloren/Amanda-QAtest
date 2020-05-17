@@ -113,7 +113,7 @@
 	<classpathentry kind="lib" path="/Applications/Katalon Studio.app/Contents/Eclipse/plugins/com.google.http-client.google-http-client_1.22.0.jar"/>
 	<classpathentry kind="lib" path="/Applications/Katalon Studio.app/Contents/Eclipse/plugins/ca.juliusdavies.not-yet-commons-ssl_0.3.11.jar"/>
 	<classpathentry kind="lib" path="/Applications/Katalon Studio.app/Contents/Eclipse/plugins/com.kms.katalon.preferences_1.0.0.201908270734.jar"/>
-	<classpathentry kind="lib" path="/Users/amandafloren/Katalon Studio/Amanda - Xendit QA Test/Drivers/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/amandafloren/Automation/Amanda-QAtest/Drivers/ashot-1.5.4.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
